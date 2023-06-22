@@ -4,13 +4,10 @@
 
 </div>
 
-Now we working at our little ecosystem :eyes:
-  - engine 🔥
-  - web-framework ⚡
-  - our website 🍍
-  - autodoc tool 📕
-
-In all these products we try to adhere to a single design concept 👔
+Now we working at :eyes:
+  - full-stack web framework 🔥
+  - extension for web framework for Visual Studio Code ✌
+  - proxy miner ✨
 
 <div align="center">
 
@@ -25,6 +22,7 @@ Most used languages:
 <div align="center">
 
 Social  
-[![HapticX](https://img.shields.io/badge/HapticX-A05EE5?style=for-the-badge&logo=telegram&logoColor=A05EE5&label=TG&labelColor=FAFAFA)](https://t.me/hapticx)
+[![Telegram](https://img.shields.io/badge/HapticX-A05EE5?style=for-the-badge&logo=telegram&logoColor=A05EE5&label=TG&labelColor=FAFAFA)](https://t.me/hapticx)
+[![VK](https://img.shields.io/badge/HapticX-A05EE5?style=for-the-badge&logo=vk&logoColor=A05EE5&label=VK&labelColor=FAFAFA)](https://vk.com/hapticx)
 
 </div>
