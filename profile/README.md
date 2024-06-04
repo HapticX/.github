@@ -6,8 +6,8 @@
 
 Now we working at :eyes:
   - full-stack web framework 🔥
+  - UI library for web framework 🎴
   - extension for web framework for Visual Studio Code ✌
-  - proxy miner ✨
 
 <div align="center">
 
